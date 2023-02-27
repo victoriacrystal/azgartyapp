@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "177821860566",
+    "project_id": "azgarty-b6235",
+    "storage_bucket": "azgarty-b6235.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177821860566:android:aa988236afd0ee1c61ff77",
+        "android_client_info": {
+          "package_name": "com.azgarty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177821860566-tnr018t8mf5su51m83plof3jpsldv1cd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbsXOptOIDVdCNdjeZhyK1CwGfKlIrE9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177821860566-tnr018t8mf5su51m83plof3jpsldv1cd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
